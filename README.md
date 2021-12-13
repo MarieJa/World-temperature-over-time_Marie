@@ -16,7 +16,7 @@ The key questions are answered in the uploaded Jupyter notebooks.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Folder Overview
 
-01 Project Management - contains the project brief
+01 - Project Management - contains the project brief
 <br/>02 - Data - contains the original data set
 <br/>03 - Scripts - contains all Jupyter notebooks
 <br/>04 - Analysis/Visualizations - contains the visualizations created for this project
