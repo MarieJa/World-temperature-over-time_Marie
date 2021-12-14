@@ -9,7 +9,6 @@ This site contains files of daily average temperatures for 157 U.S. and 167 inte
 1. What is happening with temperature over time?
 2. When, in that case, the temperature begins to behave differently?
 3. Which Region/Countries are most affected by temperature differences?
-4. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The key questions are answered in the uploaded Jupyter notebooks.
 
